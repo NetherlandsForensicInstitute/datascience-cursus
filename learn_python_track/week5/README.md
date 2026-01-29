@@ -1,6 +1,7 @@
 ### Week 5 – Pandas Continued
 You can open the exercises in Google Colab [here](https://colab.research.google.com/github/NetherlandsForensicInstitute/datascience-cursus/blob/main/learn_python_track/week5/TrackA_week5.ipynb).
 
+Topics:
 - Deriving new columns
 - *Datetime variables (optional)*
 - Grouping and aggregating data

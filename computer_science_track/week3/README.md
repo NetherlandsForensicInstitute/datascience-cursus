@@ -1,0 +1,1 @@
+You can open the exercises in Google Colab [here](https://colab.research.google.com/github/NetherlandsForensicInstitute/datascience-cursus/blob/main/computer_science_track/week3/wg3_intro_to_ML.ipynb).

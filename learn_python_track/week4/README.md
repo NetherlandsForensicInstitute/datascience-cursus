@@ -1,5 +1,5 @@
 ### Week 4 – Pandas Introduction
-Exercises can be found [here](TrackA_week4.ipynb).
+You can open the exercises in Google Colab [here](https://colab.research.google.com/github/NetherlandsForensicInstitute/datascience-cursus/blob/main/learn_python_track/week4/TrackA_week4.ipynb).
 
 Topics:
 - Dataframes

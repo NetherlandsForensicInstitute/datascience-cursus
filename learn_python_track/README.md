@@ -11,6 +11,5 @@ This track is divided into two distinct sections:
 * **Getting Help:**
     * Check **Requirements** and **Assessment** sections for live explanations.
     * Use the **Hints and Solution** section. Use hints liberally to get moving, but view full solutions sparingly. 
-    > **Note:** Programming is learned by doing. Ensure you understand a solution before moving on.
-
+> **Note:** Programming is learned by doing. Ensure you understand a solution before moving on.
 ---

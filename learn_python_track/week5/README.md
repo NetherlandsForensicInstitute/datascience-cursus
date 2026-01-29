@@ -1,5 +1,5 @@
 ### Week 5 – Pandas Continued
-Exercises can be found [here](TrackA_week5.ipynb).
+You can open the exercises in Google Colab [here](https://colab.research.google.com/github/NetherlandsForensicInstitute/datascience-cursus/blob/main/learn_python_track/week5/TrackA_week5.ipynb).
 
 - Deriving new columns
 - *Datetime variables (optional)*

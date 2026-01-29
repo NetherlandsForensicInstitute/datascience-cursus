@@ -1,0 +1,12 @@
+### Week 3 – futurecoder.io
+- Functions
+- Boolean Operators
+- **Tic Tac Toe Project**
+    - Checking the board for winners 
+    - The newline character
+    - Types
+    - *Interactive Programs with input() (optional)*
+    - *Nested List Assignment (optional)*
+    - *Making the board (optional)*
+    - *The Full Tic-Tac-Toe Game (optional)*
+- *Dictionaries (optional)*
